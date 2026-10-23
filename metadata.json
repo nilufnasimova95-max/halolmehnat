@@ -1,0 +1,10 @@
+{
+  "name": "HalolMehnat - Online Usta va Mardikor Bozori",
+  "description": "Sovuqda ko'chada kutmasdan uydan turib ish va ishchi topish platformasi. Jonli xaritada kuzatish, zakaz qabul qilish va 20,000 so'mlik kafolatli komissiya tizimi.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
